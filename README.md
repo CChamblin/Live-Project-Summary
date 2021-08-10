@@ -2,9 +2,11 @@
 
 ## Overview
 
-The Tech Academy concludes course work with a two week live project. This project provides a working environment to gain experience with the many facets of a web development project. Azure was the version control used to host the main repository to create a branch from and push completed sections of code to. Stories were assigned and posted to the boards for students to pick up and complete for our individual components. I utilized Visual Studio Code to write my webpage components. The main website hosted several compenents with unique topics of interest centering around lifestyle. The components were stryled using HTML, CSS, Bootstrap, and JavaScript. The project was kicked-off with a sprint meeting and communication was continued through daily stand ups and through the Discord app. 
+The Tech Academy concludes course work with a two week live project. This project provided a working environment to gain experience with the many facets of a web development project and exposure to the Agile/Scrum methodology. Azure was the version control used to host the main repository to create a branch from and push completed sections of code to. Stories were assigned and posted to the boards for students to pick up and complete for our individual components. I utilized Visual Studio Code to write my webpage components. The main website hosted several compenents with unique topics of interest centering around lifestyle. The components were stryled using HTML, CSS, Bootstrap, and JavaScript. The project was kicked-off with a sprint meeting and communication was continued through daily stand ups and through the Discord app. 
 
 ## Set Up
+
+
 
 ## Stories
 - Create a component
@@ -21,10 +23,4 @@ continue while also working to resolve roadblocks. I was working full-time durin
 
 <br>
 
-![Judo_Page_1](https://user-images.githubusercontent.com/78998659/128652819-c5521d58-157a-4d17-ba71-df09c1ec9534.png)
-
-![Judo_Page_2](https://user-images.githubusercontent.com/78998659/128652827-44302ea5-2667-4906-b896-1502914c9d75.png)
-
-![Judo_Page_3](https://user-images.githubusercontent.com/78998659/128652839-e421be06-3d0c-41d0-8ff2-9a1c7272ac0d.png)
-
-![Judo_Page_4](https://user-images.githubusercontent.com/78998659/128652842-b005e08b-ae26-4f3e-a51e-49aabfd968a5.png)
+https://user-images.githubusercontent.com/78998659/128949489-3d9372f6-6b58-4b5c-830c-0207097751fa.mp4
