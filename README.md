@@ -6,6 +6,8 @@
 
 The Tech Academy concludes course work with a two week live project. This project provided a working environment to gain experience with the many facets of a web development project and exposure to the Agile/Scrum methodology. Azure was the version control used to host the main repository to create a branch from and push completed sections of code to. Stories were assigned and posted to the boards for students to pick up and complete for our individual components. I utilized Visual Studio Code to write my webpage components. The main website hosted several compenents with unique topics of interest centering around lifestyle. The components were stryled using HTML, CSS, Bootstrap, and JavaScript. The project was kicked-off with a sprint meeting and communication was continued through daily stand ups and through the Discord app. 
 
+This project was a great way to end the coursework and I'm motivated to continue learning this craft and expand my skillset.
+
 <br>
 
 ## Set Up
