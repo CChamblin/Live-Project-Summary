@@ -1,18 +1,34 @@
 # Live-Project-Summary
 
+<br>
+
 ## Overview
 
 The Tech Academy concludes course work with a two week live project. This project provided a working environment to gain experience with the many facets of a web development project and exposure to the Agile/Scrum methodology. Azure was the version control used to host the main repository to create a branch from and push completed sections of code to. Stories were assigned and posted to the boards for students to pick up and complete for our individual components. I utilized Visual Studio Code to write my webpage components. The main website hosted several compenents with unique topics of interest centering around lifestyle. The components were stryled using HTML, CSS, Bootstrap, and JavaScript. The project was kicked-off with a sprint meeting and communication was continued through daily stand ups and through the Discord app. 
 
+<br>
+
 ## Set Up
 
+Prior to the initial sprint I was provided access to the project to review the wiki and follow any instructions to prepare ahead of time. This included installing Live Server, cloning the project, setting up the file structure, and review of HTML, CSS, and JavaScript.
 
+<br>
 
 ## Stories
-- Create a component
-- Implement a grid system
-- Create a sign up form
-- Implement form functionality
+- Create a component utilizing HTML and CSS.
+- Implement a grid system with CSS and add interactive design elements such as scroll over effects.
+- Create a sign up form that connects to my email.
+- Implement form functionality with JavaScript.
+
+<br>
+
+https://user-images.githubusercontent.com/78998659/128950452-1be3b0a6-acbf-452a-a31a-8dccf7c31d4b.mp4
+
+<br>
+
+https://user-images.githubusercontent.com/78998659/128950535-87381e01-3864-480e-816a-9c1d5b562c8d.mp4
+
+<br>
 
 ## Lessons Learned
 
